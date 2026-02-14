@@ -17,6 +17,9 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
+import net.mcreator.lettersandnumbers.init.LettersAndNumbersModItems;
+import net.mcreator.lettersandnumbers.init.LettersAndNumbersModBlocks;
+
 import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
@@ -36,6 +39,8 @@ public class LettersAndNumbersMod {
 		// End of user code block mod constructor
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = context.getModEventBus();
+		LettersAndNumbersModBlocks.REGISTRY.register(bus);
+		LettersAndNumbersModItems.REGISTRY.register(bus);
 		// Start of user code block mod init
 		// End of user code block mod init
 	}

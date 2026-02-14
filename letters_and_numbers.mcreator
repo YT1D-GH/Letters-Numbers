@@ -1,11 +1,67 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "ABlockWhite",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "a_block_white",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/blockstates/a_block_white.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/a_block_white.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/a_block_white.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/ABlockWhiteBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/a_block_white.json"
+        ]
+      }
+    },
+    {
+      "name": "BBlockWhite",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "b_block_white",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/block/b_block_white.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/BBlockWhiteBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/b_block_white.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/b_block_white.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/b_block_white.json"
+        ]
+      }
+    },
+    {
+      "name": "LettersAndNumbers",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "letters_and_numbers",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
   "tab_element_order": {},
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.letters_and_numbers.a_block_white": "A Block White",
+      "block.letters_and_numbers.b_block_white": "B Block White",
+      "item_group.letters_and_numbers.letters_and_numbers": "Letters And Numbers"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/lettersandnumbers/init/LettersAndNumbersModBlocks.java",
+      "src/main/java/net/mcreator/lettersandnumbers/init/LettersAndNumbersModItems.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/lettersandnumbers/LettersAndNumbersMod.java",
+      "src/main/resources/META-INF/mods.toml"
+    ]
   },
   "foldersRoot": {
     "name": "~",
@@ -17,13 +73,16 @@
     "version": "1.0.0",
     "author": "MCreator",
     "websiteURL": "https://mcreator.net",
-    "license": "Not specified",
+    "license": "MIT License",
     "serverSideOnly": false,
-    "requiredMods": [],
+    "requiredMods": [
+      "jei"
+    ],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.lettersandnumbers"
   },
   "mcreatorVersion": 202500345720
