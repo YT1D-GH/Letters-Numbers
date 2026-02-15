@@ -17,6 +17,7 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
+import net.mcreator.lettersandnumbers.init.LettersAndNumbersModTabs;
 import net.mcreator.lettersandnumbers.init.LettersAndNumbersModItems;
 import net.mcreator.lettersandnumbers.init.LettersAndNumbersModBlocks;
 
@@ -41,6 +42,7 @@ public class LettersAndNumbersMod {
 		IEventBus bus = context.getModEventBus();
 		LettersAndNumbersModBlocks.REGISTRY.register(bus);
 		LettersAndNumbersModItems.REGISTRY.register(bus);
+		LettersAndNumbersModTabs.REGISTRY.register(bus);
 		// Start of user code block mod init
 		// End of user code block mod init
 	}

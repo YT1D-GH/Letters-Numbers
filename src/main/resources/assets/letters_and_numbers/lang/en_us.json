@@ -1,5 +1,16 @@
 {
-  "block.letters_and_numbers.a_block_white": "A Block White",
-  "block.letters_and_numbers.b_block_white": "B Block White",
-  "item_group.letters_and_numbers.letters_and_numbers": "Letters And Numbers"
+  "block.letters_and_numbers.a_block": "A Block",
+  "block.letters_and_numbers.a_block_green": "A Block Green",
+  "block.letters_and_numbers.a_block_yellow": "A Block Yellow",
+  "block.letters_and_numbers.b_block_green": "B Block Green",
+  "block.letters_and_numbers.b_block_yellow": "B Block Yellow",
+  "block.letters_and_numbers.b_block": "B Block",
+  "block.letters_and_numbers.c_block": "C Block",
+  "block.letters_and_numbers.c_block_yellow": "C Block Yellow",
+  "block.letters_and_numbers.c_block_green": "C Block Green",
+  "block.letters_and_numbers.lettersandnumberscmico": "if you have this i did something wrong",
+  "item_group.letters_and_numbers.letters_and_numbers": "Letters And Numbers",
+  "block.letters_and_numbers.d_block": "D Block",
+  "block.letters_and_numbers.d_block_yellow": "D Block Yellow",
+  "block.letters_and_numbers.d_block_green": "D Block Green"
 }

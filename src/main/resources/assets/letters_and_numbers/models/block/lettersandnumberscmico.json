@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "letters_and_numbers:block/lettersandnumberscmico",
+    "up": "letters_and_numbers:block/lettersandnumberscmico",
+    "north": "letters_and_numbers:block/lettersandnumberscmico",
+    "east": "letters_and_numbers:block/lettersandnumberscmico",
+    "south": "letters_and_numbers:block/lettersandnumberscmico",
+    "west": "letters_and_numbers:block/lettersandnumberscmico",
+    "particle": "letters_and_numbers:block/lettersandnumberscmico"
+  },
+  "render_type": "solid"
+}

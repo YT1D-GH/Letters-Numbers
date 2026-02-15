@@ -20,12 +20,6 @@ authors="MCreator"
     ordering="AFTER"
     side="BOTH"
 
-[[dependencies.letters_and_numbers]]
-    modId="jei"
-    mandatory=true
-    versionRange="[0,)"
-    ordering="NONE"
-    side="BOTH"
 
 
 

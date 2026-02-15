@@ -15,11 +15,33 @@ import net.mcreator.lettersandnumbers.LettersAndNumbersMod;
 
 public class LettersAndNumbersModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, LettersAndNumbersMod.MODID);
-	public static final RegistryObject<Item> A_BLOCK_WHITE;
-	public static final RegistryObject<Item> B_BLOCK_WHITE;
+	public static final RegistryObject<Item> A_BLOCK;
+	public static final RegistryObject<Item> A_BLOCK_GREEN;
+	public static final RegistryObject<Item> A_BLOCK_YELLOW;
+	public static final RegistryObject<Item> B_BLOCK_GREEN;
+	public static final RegistryObject<Item> B_BLOCK_YELLOW;
+	public static final RegistryObject<Item> B_BLOCK;
+	public static final RegistryObject<Item> C_BLOCK;
+	public static final RegistryObject<Item> C_BLOCK_YELLOW;
+	public static final RegistryObject<Item> C_BLOCK_GREEN;
+	public static final RegistryObject<Item> LETTERSANDNUMBERSCMICO;
+	public static final RegistryObject<Item> D_BLOCK;
+	public static final RegistryObject<Item> D_BLOCK_YELLOW;
+	public static final RegistryObject<Item> D_BLOCK_GREEN;
 	static {
-		A_BLOCK_WHITE = block(LettersAndNumbersModBlocks.A_BLOCK_WHITE);
-		B_BLOCK_WHITE = block(LettersAndNumbersModBlocks.B_BLOCK_WHITE);
+		A_BLOCK = block(LettersAndNumbersModBlocks.A_BLOCK);
+		A_BLOCK_GREEN = block(LettersAndNumbersModBlocks.A_BLOCK_GREEN);
+		A_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.A_BLOCK_YELLOW);
+		B_BLOCK_GREEN = block(LettersAndNumbersModBlocks.B_BLOCK_GREEN);
+		B_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.B_BLOCK_YELLOW);
+		B_BLOCK = block(LettersAndNumbersModBlocks.B_BLOCK);
+		C_BLOCK = block(LettersAndNumbersModBlocks.C_BLOCK);
+		C_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.C_BLOCK_YELLOW);
+		C_BLOCK_GREEN = block(LettersAndNumbersModBlocks.C_BLOCK_GREEN);
+		LETTERSANDNUMBERSCMICO = block(LettersAndNumbersModBlocks.LETTERSANDNUMBERSCMICO, new Item.Properties().stacksTo(1));
+		D_BLOCK = block(LettersAndNumbersModBlocks.D_BLOCK);
+		D_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.D_BLOCK_YELLOW);
+		D_BLOCK_GREEN = block(LettersAndNumbersModBlocks.D_BLOCK_GREEN);
 	}
 
 	// Start of user code block custom items
