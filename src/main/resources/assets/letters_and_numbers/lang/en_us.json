@@ -12,5 +12,19 @@
   "item_group.letters_and_numbers.letters_and_numbers": "Letters And Numbers",
   "block.letters_and_numbers.d_block": "D Block",
   "block.letters_and_numbers.d_block_yellow": "D Block Yellow",
-  "block.letters_and_numbers.d_block_green": "D Block Green"
+  "block.letters_and_numbers.d_block_green": "D Block Green",
+  "block.letters_and_numbers.e_block_yellow": "E Block Yellow",
+  "block.letters_and_numbers.e_block_green": "E Block Green",
+  "block.letters_and_numbers.e_block": "E Block",
+  "block.letters_and_numbers.fblock_green": "Fblock Green",
+  "block.letters_and_numbers.f_block_yellow": "F Block Yellow",
+  "block.letters_and_numbers.f_block": "F Block",
+  "block.letters_and_numbers.g_block_yellow": "G Block Yellow",
+  "block.letters_and_numbers.g_block_green": "G Block Green",
+  "block.letters_and_numbers.g_block": "G Block",
+  "block.letters_and_numbers.h_block_yellow": "H Block Yellow",
+  "block.letters_and_numbers.h_block_green": "H Block Green",
+  "block.letters_and_numbers.h_block": "H Block",
+  "block.letters_and_numbers.i_block_yellow": "I Block Yellow",
+  "block.letters_and_numbers.i_block_green": "I Block Green"
 }

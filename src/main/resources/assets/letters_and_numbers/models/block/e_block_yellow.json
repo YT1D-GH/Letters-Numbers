@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "letters_and_numbers:block/eyellow",
+    "up": "letters_and_numbers:block/eyellow",
+    "north": "letters_and_numbers:block/eyellow",
+    "east": "letters_and_numbers:block/eyellow",
+    "south": "letters_and_numbers:block/eyellow",
+    "west": "letters_and_numbers:block/eyellow",
+    "particle": "letters_and_numbers:block/eyellow"
+  },
+  "render_type": "solid"
+}
