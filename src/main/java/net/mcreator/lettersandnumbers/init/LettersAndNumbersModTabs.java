@@ -43,5 +43,26 @@ public class LettersAndNumbersModTabs {
 				tabData.accept(LettersAndNumbersModBlocks.H_BLOCK.get().asItem());
 				tabData.accept(LettersAndNumbersModBlocks.I_BLOCK_YELLOW.get().asItem());
 				tabData.accept(LettersAndNumbersModBlocks.I_BLOCK_GREEN.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.I_BLOCK.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.J_BLOCK_GREEN.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.J_BLOCK_YELLOW.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.J_BLOCK.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.K_BLOCK_GREEN.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.K_BLOCK_YELLOW.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.K_BLOCK.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.L_BLOCK_GREEN.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.L_BLOCK_YELLOW.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.L_BLOCK.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.M_BLOCK_GREEN.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.M_BLOCK_YELLOW.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.M_BLOCK.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.N_BLOCK_GREEN.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.N_BLOCK_YELLOW.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.N_BLOCK.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.O_BLOCK_GREEN.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.O_BLOCK_YELLOW.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.O_BLOCK.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.P_BLOCK_GREEN.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.P_BLOCK_YELLOW.get().asItem());
 			}).build());
 }

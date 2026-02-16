@@ -42,6 +42,27 @@ public class LettersAndNumbersModBlocks {
 	public static final RegistryObject<Block> I_BLOCK_YELLOW;
 	public static final RegistryObject<Block> I_BLOCK_GREEN;
 	public static final RegistryObject<Block> I_BLOCK;
+	public static final RegistryObject<Block> J_BLOCK_GREEN;
+	public static final RegistryObject<Block> J_BLOCK_YELLOW;
+	public static final RegistryObject<Block> J_BLOCK;
+	public static final RegistryObject<Block> K_BLOCK_GREEN;
+	public static final RegistryObject<Block> K_BLOCK_YELLOW;
+	public static final RegistryObject<Block> K_BLOCK;
+	public static final RegistryObject<Block> L_BLOCK_GREEN;
+	public static final RegistryObject<Block> L_BLOCK_YELLOW;
+	public static final RegistryObject<Block> L_BLOCK;
+	public static final RegistryObject<Block> M_BLOCK_GREEN;
+	public static final RegistryObject<Block> M_BLOCK_YELLOW;
+	public static final RegistryObject<Block> M_BLOCK;
+	public static final RegistryObject<Block> N_BLOCK_GREEN;
+	public static final RegistryObject<Block> N_BLOCK_YELLOW;
+	public static final RegistryObject<Block> N_BLOCK;
+	public static final RegistryObject<Block> O_BLOCK_GREEN;
+	public static final RegistryObject<Block> O_BLOCK_YELLOW;
+	public static final RegistryObject<Block> O_BLOCK;
+	public static final RegistryObject<Block> P_BLOCK_GREEN;
+	public static final RegistryObject<Block> P_BLOCK_YELLOW;
+	public static final RegistryObject<Block> P_BLOCK;
 	static {
 		A_BLOCK = REGISTRY.register("a_block", ABlockBlock::new);
 		A_BLOCK_GREEN = REGISTRY.register("a_block_green", ABlockGreenBlock::new);
@@ -71,6 +92,27 @@ public class LettersAndNumbersModBlocks {
 		I_BLOCK_YELLOW = REGISTRY.register("i_block_yellow", IBlockYellowBlock::new);
 		I_BLOCK_GREEN = REGISTRY.register("i_block_green", IBlockGreenBlock::new);
 		I_BLOCK = REGISTRY.register("i_block", IBlockBlock::new);
+		J_BLOCK_GREEN = REGISTRY.register("j_block_green", JBlockGreenBlock::new);
+		J_BLOCK_YELLOW = REGISTRY.register("j_block_yellow", JBlockYellowBlock::new);
+		J_BLOCK = REGISTRY.register("j_block", JBlockBlock::new);
+		K_BLOCK_GREEN = REGISTRY.register("k_block_green", KBlockGreenBlock::new);
+		K_BLOCK_YELLOW = REGISTRY.register("k_block_yellow", KBlockYellowBlock::new);
+		K_BLOCK = REGISTRY.register("k_block", KBlockBlock::new);
+		L_BLOCK_GREEN = REGISTRY.register("l_block_green", LBlockGreenBlock::new);
+		L_BLOCK_YELLOW = REGISTRY.register("l_block_yellow", LBlockYellowBlock::new);
+		L_BLOCK = REGISTRY.register("l_block", LBlockBlock::new);
+		M_BLOCK_GREEN = REGISTRY.register("m_block_green", MBlockGreenBlock::new);
+		M_BLOCK_YELLOW = REGISTRY.register("m_block_yellow", MBlockYellowBlock::new);
+		M_BLOCK = REGISTRY.register("m_block", MBlockBlock::new);
+		N_BLOCK_GREEN = REGISTRY.register("n_block_green", NBlockGreenBlock::new);
+		N_BLOCK_YELLOW = REGISTRY.register("n_block_yellow", NBlockYellowBlock::new);
+		N_BLOCK = REGISTRY.register("n_block", NBlockBlock::new);
+		O_BLOCK_GREEN = REGISTRY.register("o_block_green", OBlockGreenBlock::new);
+		O_BLOCK_YELLOW = REGISTRY.register("o_block_yellow", OBlockYellowBlock::new);
+		O_BLOCK = REGISTRY.register("o_block", OBlockBlock::new);
+		P_BLOCK_GREEN = REGISTRY.register("p_block_green", PBlockGreenBlock::new);
+		P_BLOCK_YELLOW = REGISTRY.register("p_block_yellow", PBlockYellowBlock::new);
+		P_BLOCK = REGISTRY.register("p_block", PBlockBlock::new);
 	}
 	// Start of user code block custom blocks
 	// End of user code block custom blocks

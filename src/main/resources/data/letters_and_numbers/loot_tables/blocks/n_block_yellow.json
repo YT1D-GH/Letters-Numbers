@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "letters_and_numbers:blocks/n_block_yellow",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "letters_and_numbers:n_block_yellow"
+        }
+      ]
+    }
+  ]
+}

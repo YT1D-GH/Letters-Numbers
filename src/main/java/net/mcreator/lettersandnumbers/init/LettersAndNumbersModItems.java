@@ -43,6 +43,27 @@ public class LettersAndNumbersModItems {
 	public static final RegistryObject<Item> I_BLOCK_YELLOW;
 	public static final RegistryObject<Item> I_BLOCK_GREEN;
 	public static final RegistryObject<Item> I_BLOCK;
+	public static final RegistryObject<Item> J_BLOCK_GREEN;
+	public static final RegistryObject<Item> J_BLOCK_YELLOW;
+	public static final RegistryObject<Item> J_BLOCK;
+	public static final RegistryObject<Item> K_BLOCK_GREEN;
+	public static final RegistryObject<Item> K_BLOCK_YELLOW;
+	public static final RegistryObject<Item> K_BLOCK;
+	public static final RegistryObject<Item> L_BLOCK_GREEN;
+	public static final RegistryObject<Item> L_BLOCK_YELLOW;
+	public static final RegistryObject<Item> L_BLOCK;
+	public static final RegistryObject<Item> M_BLOCK_GREEN;
+	public static final RegistryObject<Item> M_BLOCK_YELLOW;
+	public static final RegistryObject<Item> M_BLOCK;
+	public static final RegistryObject<Item> N_BLOCK_GREEN;
+	public static final RegistryObject<Item> N_BLOCK_YELLOW;
+	public static final RegistryObject<Item> N_BLOCK;
+	public static final RegistryObject<Item> O_BLOCK_GREEN;
+	public static final RegistryObject<Item> O_BLOCK_YELLOW;
+	public static final RegistryObject<Item> O_BLOCK;
+	public static final RegistryObject<Item> P_BLOCK_GREEN;
+	public static final RegistryObject<Item> P_BLOCK_YELLOW;
+	public static final RegistryObject<Item> P_BLOCK;
 	static {
 		A_BLOCK = block(LettersAndNumbersModBlocks.A_BLOCK);
 		A_BLOCK_GREEN = block(LettersAndNumbersModBlocks.A_BLOCK_GREEN);
@@ -72,6 +93,27 @@ public class LettersAndNumbersModItems {
 		I_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.I_BLOCK_YELLOW);
 		I_BLOCK_GREEN = block(LettersAndNumbersModBlocks.I_BLOCK_GREEN);
 		I_BLOCK = block(LettersAndNumbersModBlocks.I_BLOCK);
+		J_BLOCK_GREEN = block(LettersAndNumbersModBlocks.J_BLOCK_GREEN);
+		J_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.J_BLOCK_YELLOW);
+		J_BLOCK = block(LettersAndNumbersModBlocks.J_BLOCK);
+		K_BLOCK_GREEN = block(LettersAndNumbersModBlocks.K_BLOCK_GREEN);
+		K_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.K_BLOCK_YELLOW);
+		K_BLOCK = block(LettersAndNumbersModBlocks.K_BLOCK);
+		L_BLOCK_GREEN = block(LettersAndNumbersModBlocks.L_BLOCK_GREEN);
+		L_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.L_BLOCK_YELLOW);
+		L_BLOCK = block(LettersAndNumbersModBlocks.L_BLOCK);
+		M_BLOCK_GREEN = block(LettersAndNumbersModBlocks.M_BLOCK_GREEN);
+		M_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.M_BLOCK_YELLOW);
+		M_BLOCK = block(LettersAndNumbersModBlocks.M_BLOCK);
+		N_BLOCK_GREEN = block(LettersAndNumbersModBlocks.N_BLOCK_GREEN);
+		N_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.N_BLOCK_YELLOW);
+		N_BLOCK = block(LettersAndNumbersModBlocks.N_BLOCK);
+		O_BLOCK_GREEN = block(LettersAndNumbersModBlocks.O_BLOCK_GREEN);
+		O_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.O_BLOCK_YELLOW);
+		O_BLOCK = block(LettersAndNumbersModBlocks.O_BLOCK);
+		P_BLOCK_GREEN = block(LettersAndNumbersModBlocks.P_BLOCK_GREEN);
+		P_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.P_BLOCK_YELLOW);
+		P_BLOCK = block(LettersAndNumbersModBlocks.P_BLOCK);
 	}
 
 	// Start of user code block custom items

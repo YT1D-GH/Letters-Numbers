@@ -747,6 +747,580 @@
         ]
       },
       "path": "~/Blocks/I"
+    },
+    {
+      "name": "JBlockGreen",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "j_block_green",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/item/j_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/j_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/j_block_green.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/JBlockGreenBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/j_block_green.json"
+        ]
+      },
+      "path": "~/Blocks/J"
+    },
+    {
+      "name": "JBlockYellow",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "j_block_yellow",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/block/j_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/JBlockYellowBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/j_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/j_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/j_block_yellow.json"
+        ]
+      },
+      "path": "~/Blocks/J"
+    },
+    {
+      "name": "JBlockOnBlockRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "j_block_on_block_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/procedures/JBlockOnBlockRightclickedProcedure.java"
+        ]
+      },
+      "path": "~/Procedures/J"
+    },
+    {
+      "name": "JBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "j_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/block/j_block.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/j_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/j_block.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/j_block.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/JBlockBlock.java"
+        ]
+      },
+      "path": "~/Blocks/J"
+    },
+    {
+      "name": "KBlockGreen",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_block_green",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/item/k_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/k_block_green.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/KBlockGreenBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/k_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/k_block_green.json"
+        ]
+      },
+      "path": "~/Blocks/K"
+    },
+    {
+      "name": "KBlockYellow",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_block_yellow",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/k_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/k_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/k_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/KBlockYellowBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/block/k_block_yellow.json"
+        ]
+      },
+      "path": "~/Blocks/K"
+    },
+    {
+      "name": "KBlockOnBlockRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_block_on_block_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/procedures/KBlockOnBlockRightclickedProcedure.java"
+        ]
+      },
+      "path": "~/Procedures/K"
+    },
+    {
+      "name": "KBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/block/k_block.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/k_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/k_block.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/KBlockBlock.java",
+          "src/main/resources/assets/letters_and_numbers/blockstates/k_block.json"
+        ]
+      },
+      "path": "~/Blocks/K"
+    },
+    {
+      "name": "LBlockGreen",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_block_green",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/block/LBlockGreenBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/l_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/l_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/l_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/l_block_green.json"
+        ]
+      },
+      "path": "~/Blocks/L"
+    },
+    {
+      "name": "LBlockYellow",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_block_yellow",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/block/l_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/l_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/l_block_yellow.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/l_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/LBlockYellowBlock.java"
+        ]
+      },
+      "path": "~/Blocks/L"
+    },
+    {
+      "name": "LBlockOnBlockRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_block_on_block_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/procedures/LBlockOnBlockRightclickedProcedure.java"
+        ]
+      },
+      "path": "~/Procedures/L"
+    },
+    {
+      "name": "LBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/l_block.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/LBlockBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/l_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/l_block.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/l_block.json"
+        ]
+      },
+      "path": "~/Blocks/L"
+    },
+    {
+      "name": "MBlockGreen",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "m_block_green",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/block/MBlockGreenBlock.java",
+          "src/main/resources/assets/letters_and_numbers/blockstates/m_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/m_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/m_block_green.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/m_block_green.json"
+        ]
+      },
+      "path": "~/Blocks/M"
+    },
+    {
+      "name": "MBlockYellow",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "m_block_yellow",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/item/m_block_yellow.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/m_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/MBlockYellowBlock.java",
+          "src/main/resources/assets/letters_and_numbers/blockstates/m_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/m_block_yellow.json"
+        ]
+      },
+      "path": "~/Blocks/M"
+    },
+    {
+      "name": "MBlockOnBlockRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "m_block_on_block_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/procedures/MBlockOnBlockRightclickedProcedure.java"
+        ]
+      },
+      "path": "~/Procedures/M"
+    },
+    {
+      "name": "MBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "m_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/block/MBlockBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/m_block.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/m_block.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/m_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/m_block.json"
+        ]
+      },
+      "path": "~/Blocks/M"
+    },
+    {
+      "name": "NBlockGreen",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_block_green",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/n_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/n_block_green.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/NBlockGreenBlock.java",
+          "src/main/resources/assets/letters_and_numbers/blockstates/n_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/n_block_green.json"
+        ]
+      },
+      "path": "~/Blocks/N"
+    },
+    {
+      "name": "NBlockYellow",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_block_yellow",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/n_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/NBlockYellowBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/block/n_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/n_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/n_block_yellow.json"
+        ]
+      },
+      "path": "~/Blocks/N"
+    },
+    {
+      "name": "NBlockOnBlockRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_block_on_block_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/procedures/NBlockOnBlockRightclickedProcedure.java"
+        ]
+      },
+      "path": "~/Procedures/N"
+    },
+    {
+      "name": "NBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/block/n_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/n_block.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/n_block.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/NBlockBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/n_block.json"
+        ]
+      },
+      "path": "~/Blocks/N"
+    },
+    {
+      "name": "OBlockGreen",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "o_block_green",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/blockstates/o_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/o_block_green.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/o_block_green.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/OBlockGreenBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/o_block_green.json"
+        ]
+      },
+      "path": "~/Blocks/O"
+    },
+    {
+      "name": "OBlockYellow",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "o_block_yellow",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/o_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/o_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/o_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/o_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/OBlockYellowBlock.java"
+        ]
+      },
+      "path": "~/Blocks/O"
+    },
+    {
+      "name": "OBlockOnBlockRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "o_block_on_block_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/procedures/OBlockOnBlockRightclickedProcedure.java"
+        ]
+      },
+      "path": "~/Procedures/O"
+    },
+    {
+      "name": "OBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "o_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/item/o_block.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/o_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/o_block.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/OBlockBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/o_block.json"
+        ]
+      },
+      "path": "~/Blocks/O"
+    },
+    {
+      "name": "PBlockGreen",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "p_block_green",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/block/p_block_green.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/PBlockGreenBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/p_block_green.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/p_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/p_block_green.json"
+        ]
+      },
+      "path": "~/Blocks/P"
+    },
+    {
+      "name": "PBlockYellow",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "p_block_yellow",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/block/PBlockYellowBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/p_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/p_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/p_block_yellow.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/p_block_yellow.json"
+        ]
+      },
+      "path": "~/Blocks/P"
+    },
+    {
+      "name": "PBlockOnBlockRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "p_block_on_block_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/procedures/PBlockOnBlockRightclickedProcedure.java"
+        ]
+      },
+      "path": "~/Blocks/P"
+    },
+    {
+      "name": "PBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "p_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/item/p_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/p_block.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/p_block.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/PBlockBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/p_block.json"
+        ]
+      },
+      "path": "~/Blocks/P"
     }
   ],
   "variable_elements": [],
@@ -780,7 +1354,28 @@
       "HBlock",
       "IBlockYellow",
       "IBlockGreen",
-      "IBlock"
+      "IBlock",
+      "JBlockGreen",
+      "JBlockYellow",
+      "JBlock",
+      "KBlockGreen",
+      "KBlockYellow",
+      "KBlock",
+      "LBlockGreen",
+      "LBlockYellow",
+      "LBlock",
+      "MBlockGreen",
+      "MBlockYellow",
+      "MBlock",
+      "NBlockGreen",
+      "NBlockYellow",
+      "NBlock",
+      "OBlockGreen",
+      "OBlockYellow",
+      "OBlock",
+      "PBlockGreen",
+      "PBlockYellow",
+      "PBlock"
     ]
   },
   "language_map": {
@@ -813,7 +1408,28 @@
       "block.letters_and_numbers.h_block": "H Block",
       "block.letters_and_numbers.i_block_yellow": "I Block Yellow",
       "block.letters_and_numbers.i_block_green": "I Block Green",
-      "block.letters_and_numbers.i_block": "I Block"
+      "block.letters_and_numbers.i_block": "I Block",
+      "block.letters_and_numbers.j_block_green": "J Block Green",
+      "block.letters_and_numbers.j_block_yellow": "J Block Yellow",
+      "block.letters_and_numbers.j_block": "J Block",
+      "block.letters_and_numbers.k_block_green": "K Block Green",
+      "block.letters_and_numbers.k_block_yellow": "K Block Yellow",
+      "block.letters_and_numbers.k_block": "K Block",
+      "block.letters_and_numbers.l_block_green": "L Block Green",
+      "block.letters_and_numbers.l_block_yellow": "L Block Yellow",
+      "block.letters_and_numbers.l_block": "L Block",
+      "block.letters_and_numbers.m_block_green": "M Block Green",
+      "block.letters_and_numbers.m_block_yellow": "M Block Yellow",
+      "block.letters_and_numbers.m_block": "M Block",
+      "block.letters_and_numbers.n_block_green": "N Block Green",
+      "block.letters_and_numbers.n_block_yellow": "N Block Yellow",
+      "block.letters_and_numbers.n_block": "N Block",
+      "block.letters_and_numbers.o_block_green": "O Block Green",
+      "block.letters_and_numbers.o_block_yellow": "O Block Yellow",
+      "block.letters_and_numbers.o_block": "O Block",
+      "block.letters_and_numbers.p_block_green": "P Block Green",
+      "block.letters_and_numbers.p_block_yellow": "P Block Yellow",
+      "block.letters_and_numbers.p_block": "P Block"
     }
   },
   "metadata": {
