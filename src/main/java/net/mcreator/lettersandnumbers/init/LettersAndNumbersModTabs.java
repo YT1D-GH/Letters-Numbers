@@ -64,5 +64,6 @@ public class LettersAndNumbersModTabs {
 				tabData.accept(LettersAndNumbersModBlocks.O_BLOCK.get().asItem());
 				tabData.accept(LettersAndNumbersModBlocks.P_BLOCK_GREEN.get().asItem());
 				tabData.accept(LettersAndNumbersModBlocks.P_BLOCK_YELLOW.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.P_BLOCK.get().asItem());
 			}).build());
 }

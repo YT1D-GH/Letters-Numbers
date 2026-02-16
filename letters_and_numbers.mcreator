@@ -8,10 +8,10 @@
       "registry_name": "a_block",
       "metadata": {
         "files": [
+          "src/main/resources/assets/letters_and_numbers/models/item/a_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/a_block.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/ABlockBlock.java",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/a_block.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/a_block.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/a_block.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/a_block.json"
         ]
       },
@@ -25,10 +25,10 @@
       "registry_name": "a_block_green",
       "metadata": {
         "files": [
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/a_block_green.json",
           "src/main/resources/assets/letters_and_numbers/models/item/a_block_green.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/a_block_green.json",
           "src/main/resources/assets/letters_and_numbers/models/block/a_block_green.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/a_block_green.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/ABlockGreenBlock.java"
         ]
       },
@@ -42,11 +42,11 @@
       "registry_name": "a_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/a_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/a_block_yellow.json",
           "src/main/resources/assets/letters_and_numbers/models/item/a_block_yellow.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/ABlockYellowBlock.java",
-          "src/main/resources/assets/letters_and_numbers/blockstates/a_block_yellow.json"
+          "src/main/resources/assets/letters_and_numbers/models/block/a_block_yellow.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/a_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/a_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/ABlockYellowBlock.java"
         ]
       },
       "path": "~/Blocks/A"
@@ -60,10 +60,10 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/lettersandnumbers/block/BBlockGreenBlock.java",
-          "src/main/resources/assets/letters_and_numbers/models/block/b_block_green.json",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/b_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/b_block_green.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/b_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/b_block_green.json"
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/b_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/b_block_green.json"
         ]
       },
       "path": "~/Blocks/B"
@@ -76,11 +76,11 @@
       "registry_name": "b_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/blockstates/b_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/BBlockYellowBlock.java",
           "src/main/resources/assets/letters_and_numbers/models/item/b_block_yellow.json",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/b_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/b_block_yellow.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/BBlockYellowBlock.java"
+          "src/main/resources/assets/letters_and_numbers/blockstates/b_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/b_block_yellow.json"
         ]
       },
       "path": "~/Blocks/B"
@@ -124,11 +124,11 @@
       "registry_name": "b_block",
       "metadata": {
         "files": [
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/b_block.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/BBlockBlock.java",
-          "src/main/resources/assets/letters_and_numbers/models/block/b_block.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/b_block.json",
           "src/main/resources/assets/letters_and_numbers/models/item/b_block.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/b_block.json"
+          "src/main/resources/assets/letters_and_numbers/models/block/b_block.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/b_block.json"
         ]
       },
       "path": "~/Blocks/B"
@@ -174,9 +174,9 @@
         "files": [
           "src/main/resources/assets/letters_and_numbers/models/item/c_block.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/c_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/c_block.json",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/c_block.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/CBlockBlock.java",
-          "src/main/resources/assets/letters_and_numbers/models/block/c_block.json"
+          "src/main/java/net/mcreator/lettersandnumbers/block/CBlockBlock.java"
         ]
       },
       "path": "~/Blocks/C"
@@ -189,11 +189,11 @@
       "registry_name": "c_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/c_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/c_block_yellow.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/CBlockYellowBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/c_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/c_block_yellow.json",
           "src/main/resources/assets/letters_and_numbers/models/block/c_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/c_block_yellow.json"
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/c_block_yellow.json"
         ]
       },
       "path": "~/Blocks/C"
@@ -208,8 +208,8 @@
         "files": [
           "src/main/resources/assets/letters_and_numbers/blockstates/c_block_green.json",
           "src/main/resources/assets/letters_and_numbers/models/block/c_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/c_block_green.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/CBlockGreenBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/c_block_green.json",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/c_block_green.json"
         ]
       },
@@ -254,11 +254,11 @@
       "registry_name": "lettersandnumberscmico",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/blockstates/lettersandnumberscmico.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/LettersandnumberscmicoBlock.java",
-          "src/main/resources/assets/letters_and_numbers/models/block/lettersandnumberscmico.json",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/lettersandnumberscmico.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/lettersandnumberscmico.json"
+          "src/main/java/net/mcreator/lettersandnumbers/block/LettersandnumberscmicoBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/lettersandnumberscmico.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/lettersandnumberscmico.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/lettersandnumberscmico.json"
         ]
       },
       "path": "~/Blocks"
@@ -282,10 +282,10 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/letters_and_numbers/models/item/d_block.json",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/d_block.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/DBlockBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/block/d_block.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/d_block.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/d_block.json"
+          "src/main/java/net/mcreator/lettersandnumbers/block/DBlockBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/d_block.json"
         ]
       },
       "path": "~/Blocks/D"
@@ -299,9 +299,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/letters_and_numbers/models/block/d_block_yellow.json",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/d_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/d_block_yellow.json",
           "src/main/resources/assets/letters_and_numbers/models/item/d_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/d_block_yellow.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/d_block_yellow.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/DBlockYellowBlock.java"
         ]
       },
@@ -315,11 +315,11 @@
       "registry_name": "d_block_green",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/block/DBlockGreenBlock.java",
-          "src/main/resources/assets/letters_and_numbers/blockstates/d_block_green.json",
           "src/main/resources/assets/letters_and_numbers/models/block/d_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/d_block_green.json",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/d_block_green.json"
+          "src/main/resources/assets/letters_and_numbers/blockstates/d_block_green.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/d_block_green.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/DBlockGreenBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/d_block_green.json"
         ]
       },
       "path": "~/Blocks/D"
@@ -363,11 +363,11 @@
       "registry_name": "e_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/models/block/e_block_yellow.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/EBlockYellowBlock.java",
-          "src/main/resources/assets/letters_and_numbers/models/item/e_block_yellow.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/e_block_yellow.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/e_block_yellow.json",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/e_block_yellow.json"
+          "src/main/resources/assets/letters_and_numbers/models/block/e_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/e_block_yellow.json"
         ]
       },
       "path": "~/Blocks/E"
@@ -411,11 +411,11 @@
       "registry_name": "e_block",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/block/EBlockBlock.java",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/e_block.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/e_block.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/e_block.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/e_block.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/EBlockBlock.java"
+          "src/main/resources/assets/letters_and_numbers/models/item/e_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/e_block.json"
         ]
       },
       "path": "~/Blocks/E"
@@ -428,11 +428,11 @@
       "registry_name": "fblock_green",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/models/item/fblock_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/fblock_green.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/fblock_green.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/FblockGreenBlock.java",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/fblock_green.json"
+          "src/main/resources/assets/letters_and_numbers/blockstates/fblock_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/fblock_green.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/fblock_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/fblock_green.json"
         ]
       },
       "path": "~/Blocks/F"
@@ -445,11 +445,11 @@
       "registry_name": "f_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/f_block_yellow.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/FBlockYellowBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/f_block_yellow.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/f_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/f_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/f_block_yellow.json"
+          "src/main/java/net/mcreator/lettersandnumbers/block/FBlockYellowBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/f_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/f_block_yellow.json"
         ]
       },
       "path": "~/Blocks/F"
@@ -495,8 +495,8 @@
         "files": [
           "src/main/java/net/mcreator/lettersandnumbers/block/FBlockBlock.java",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/f_block.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/f_block.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/f_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/f_block.json",
           "src/main/resources/assets/letters_and_numbers/models/block/f_block.json"
         ]
       },
@@ -510,11 +510,11 @@
       "registry_name": "g_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/models/block/g_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/g_block_yellow.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/GBlockYellowBlock.java",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/g_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/g_block_yellow.json"
+          "src/main/resources/assets/letters_and_numbers/models/item/g_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/g_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/g_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/GBlockYellowBlock.java"
         ]
       },
       "path": "~/Blocks/G"
@@ -528,9 +528,9 @@
       "metadata": {
         "files": [
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/g_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/g_block_green.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/g_block_green.json",
           "src/main/resources/assets/letters_and_numbers/models/item/g_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/g_block_green.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/GBlockGreenBlock.java"
         ]
       },
@@ -544,11 +544,11 @@
       "registry_name": "g_block",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/block/GBlockBlock.java",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/g_block.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/g_block.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/g_block.json",
           "src/main/resources/assets/letters_and_numbers/models/block/g_block.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/g_block.json"
+          "src/main/resources/assets/letters_and_numbers/models/item/g_block.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/GBlockBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/g_block.json"
         ]
       },
       "path": "~/Blocks/G"
@@ -561,11 +561,11 @@
       "registry_name": "h_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/h_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/HBlockYellowBlock.java",
           "src/main/resources/assets/letters_and_numbers/models/item/h_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/h_block_yellow.json",
           "src/main/resources/assets/letters_and_numbers/models/block/h_block_yellow.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/HBlockYellowBlock.java"
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/h_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/h_block_yellow.json"
         ]
       },
       "path": "~/Blocks/H"
@@ -610,10 +610,10 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/lettersandnumbers/block/HBlockGreenBlock.java",
-          "src/main/resources/assets/letters_and_numbers/blockstates/h_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/h_block_green.json",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/h_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/h_block_green.json"
+          "src/main/resources/assets/letters_and_numbers/models/block/h_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/h_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/h_block_green.json"
         ]
       },
       "path": "~/Blocks/H"
@@ -657,11 +657,11 @@
       "registry_name": "h_block",
       "metadata": {
         "files": [
+          "src/main/resources/assets/letters_and_numbers/blockstates/h_block.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/HBlockBlock.java",
-          "src/main/resources/assets/letters_and_numbers/models/item/h_block.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/h_block.json",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/h_block.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/h_block.json"
+          "src/main/resources/assets/letters_and_numbers/models/item/h_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/h_block.json"
         ]
       },
       "path": "~/Blocks/H"
@@ -674,11 +674,11 @@
       "registry_name": "i_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/blockstates/i_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/i_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/IBlockYellowBlock.java",
           "src/main/resources/assets/letters_and_numbers/models/item/i_block_yellow.json",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/i_block_yellow.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/IBlockYellowBlock.java",
-          "src/main/resources/assets/letters_and_numbers/models/block/i_block_yellow.json"
+          "src/main/resources/assets/letters_and_numbers/blockstates/i_block_yellow.json"
         ]
       },
       "path": "~/Blocks/I"
@@ -691,11 +691,11 @@
       "registry_name": "i_block_green",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/blockstates/i_block_green.json",
           "src/main/resources/assets/letters_and_numbers/models/block/i_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/i_block_green.json",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/i_block_green.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/IBlockGreenBlock.java"
+          "src/main/resources/assets/letters_and_numbers/blockstates/i_block_green.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/IBlockGreenBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/i_block_green.json"
         ]
       },
       "path": "~/Blocks/I"
@@ -741,9 +741,9 @@
         "files": [
           "src/main/resources/assets/letters_and_numbers/models/item/i_block.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/i_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/i_block.json",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/i_block.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/IBlockBlock.java",
-          "src/main/resources/assets/letters_and_numbers/models/block/i_block.json"
+          "src/main/java/net/mcreator/lettersandnumbers/block/IBlockBlock.java"
         ]
       },
       "path": "~/Blocks/I"
@@ -756,10 +756,10 @@
       "registry_name": "j_block_green",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/block/JBlockGreenBlock.java",
           "src/main/resources/assets/letters_and_numbers/models/item/j_block_green.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/j_block_green.json",
           "src/main/resources/assets/letters_and_numbers/models/block/j_block_green.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/JBlockGreenBlock.java",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/j_block_green.json"
         ]
       },
@@ -773,11 +773,11 @@
       "registry_name": "j_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/models/block/j_block_yellow.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/JBlockYellowBlock.java",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/j_block_yellow.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/j_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/j_block_yellow.json"
+          "src/main/java/net/mcreator/lettersandnumbers/block/JBlockYellowBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/item/j_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/j_block_yellow.json"
         ]
       },
       "path": "~/Blocks/J"
@@ -821,11 +821,11 @@
       "registry_name": "j_block",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/models/block/j_block.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/j_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/j_block.json",
           "src/main/resources/assets/letters_and_numbers/models/item/j_block.json",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/j_block.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/JBlockBlock.java"
+          "src/main/java/net/mcreator/lettersandnumbers/block/JBlockBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/j_block.json"
         ]
       },
       "path": "~/Blocks/J"
@@ -839,10 +839,10 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/letters_and_numbers/models/item/k_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/k_block_green.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/KBlockGreenBlock.java",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/k_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/k_block_green.json"
+          "src/main/resources/assets/letters_and_numbers/models/block/k_block_green.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/KBlockGreenBlock.java",
+          "src/main/resources/assets/letters_and_numbers/blockstates/k_block_green.json"
         ]
       },
       "path": "~/Blocks/K"
@@ -855,11 +855,11 @@
       "registry_name": "k_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/k_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/k_block_yellow.json",
           "src/main/resources/assets/letters_and_numbers/models/item/k_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/k_block_yellow.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/KBlockYellowBlock.java",
-          "src/main/resources/assets/letters_and_numbers/models/block/k_block_yellow.json"
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/k_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/k_block_yellow.json"
         ]
       },
       "path": "~/Blocks/K"
@@ -903,11 +903,11 @@
       "registry_name": "k_block",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/models/block/k_block.json",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/k_block.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/k_block.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/KBlockBlock.java",
-          "src/main/resources/assets/letters_and_numbers/blockstates/k_block.json"
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/k_block.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/k_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/k_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/k_block.json"
         ]
       },
       "path": "~/Blocks/K"
@@ -920,11 +920,11 @@
       "registry_name": "l_block_green",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/block/LBlockGreenBlock.java",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/l_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/l_block_green.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/l_block_green.json",
           "src/main/resources/assets/letters_and_numbers/models/block/l_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/l_block_green.json"
+          "src/main/java/net/mcreator/lettersandnumbers/block/LBlockGreenBlock.java"
         ]
       },
       "path": "~/Blocks/L"
@@ -937,11 +937,11 @@
       "registry_name": "l_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/models/block/l_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/l_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/l_block_yellow.json",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/l_block_yellow.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/LBlockYellowBlock.java"
+          "src/main/java/net/mcreator/lettersandnumbers/block/LBlockYellowBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/block/l_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/l_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/l_block_yellow.json"
         ]
       },
       "path": "~/Blocks/L"
@@ -985,11 +985,11 @@
       "registry_name": "l_block",
       "metadata": {
         "files": [
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/l_block.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/LBlockBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/l_block.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/l_block.json",
           "src/main/resources/assets/letters_and_numbers/models/item/l_block.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/l_block.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/l_block.json"
+          "src/main/resources/assets/letters_and_numbers/models/block/l_block.json"
         ]
       },
       "path": "~/Blocks/L"
@@ -1003,10 +1003,10 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/lettersandnumbers/block/MBlockGreenBlock.java",
-          "src/main/resources/assets/letters_and_numbers/blockstates/m_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/m_block_green.json",
           "src/main/resources/assets/letters_and_numbers/models/block/m_block_green.json",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/m_block_green.json"
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/m_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/m_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/m_block_green.json"
         ]
       },
       "path": "~/Blocks/M"
@@ -1020,9 +1020,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/letters_and_numbers/models/item/m_block_yellow.json",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/m_block_yellow.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/MBlockYellowBlock.java",
           "src/main/resources/assets/letters_and_numbers/blockstates/m_block_yellow.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/m_block_yellow.json",
           "src/main/resources/assets/letters_and_numbers/models/block/m_block_yellow.json"
         ]
       },
@@ -1068,10 +1068,10 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/lettersandnumbers/block/MBlockBlock.java",
-          "src/main/resources/assets/letters_and_numbers/models/item/m_block.json",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/m_block.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/m_block.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/m_block.json"
+          "src/main/resources/assets/letters_and_numbers/models/block/m_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/m_block.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/m_block.json"
         ]
       },
       "path": "~/Blocks/M"
@@ -1084,11 +1084,11 @@
       "registry_name": "n_block_green",
       "metadata": {
         "files": [
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/n_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/n_block_green.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/NBlockGreenBlock.java",
+          "src/main/resources/assets/letters_and_numbers/models/block/n_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/n_block_green.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/n_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/n_block_green.json"
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/n_block_green.json"
         ]
       },
       "path": "~/Blocks/N"
@@ -1101,11 +1101,11 @@
       "registry_name": "n_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/n_block_yellow.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/NBlockYellowBlock.java",
           "src/main/resources/assets/letters_and_numbers/models/block/n_block_yellow.json",
           "src/main/resources/assets/letters_and_numbers/models/item/n_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/n_block_yellow.json"
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/n_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/n_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/NBlockYellowBlock.java"
         ]
       },
       "path": "~/Blocks/N"
@@ -1149,11 +1149,11 @@
       "registry_name": "n_block",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/models/block/n_block.json",
-          "src/main/resources/assets/letters_and_numbers/models/item/n_block.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/n_block.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/n_block.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/NBlockBlock.java",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/n_block.json"
+          "src/main/resources/assets/letters_and_numbers/blockstates/n_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/n_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/n_block.json"
         ]
       },
       "path": "~/Blocks/N"
@@ -1166,11 +1166,11 @@
       "registry_name": "o_block_green",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/blockstates/o_block_green.json",
           "src/main/resources/assets/letters_and_numbers/models/block/o_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/o_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/o_block_green.json",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/o_block_green.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/OBlockGreenBlock.java",
-          "src/main/resources/assets/letters_and_numbers/models/item/o_block_green.json"
+          "src/main/java/net/mcreator/lettersandnumbers/block/OBlockGreenBlock.java"
         ]
       },
       "path": "~/Blocks/O"
@@ -1183,11 +1183,11 @@
       "registry_name": "o_block_yellow",
       "metadata": {
         "files": [
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/o_block_yellow.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/OBlockYellowBlock.java",
           "src/main/resources/assets/letters_and_numbers/models/item/o_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/models/block/o_block_yellow.json",
           "src/main/resources/assets/letters_and_numbers/blockstates/o_block_yellow.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/OBlockYellowBlock.java"
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/o_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/o_block_yellow.json"
         ]
       },
       "path": "~/Blocks/O"
@@ -1248,11 +1248,11 @@
       "registry_name": "p_block_green",
       "metadata": {
         "files": [
-          "src/main/resources/assets/letters_and_numbers/models/block/p_block_green.json",
-          "src/main/java/net/mcreator/lettersandnumbers/block/PBlockGreenBlock.java",
           "src/main/resources/assets/letters_and_numbers/models/item/p_block_green.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/p_block_green.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/PBlockGreenBlock.java",
           "src/main/resources/data/letters_and_numbers/loot_tables/blocks/p_block_green.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/p_block_green.json"
+          "src/main/resources/assets/letters_and_numbers/models/block/p_block_green.json"
         ]
       },
       "path": "~/Blocks/P"
@@ -1265,11 +1265,11 @@
       "registry_name": "p_block_yellow",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/block/PBlockYellowBlock.java",
-          "src/main/resources/assets/letters_and_numbers/models/item/p_block_yellow.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/p_block_yellow.json",
           "src/main/resources/assets/letters_and_numbers/models/block/p_block_yellow.json",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/p_block_yellow.json"
+          "src/main/java/net/mcreator/lettersandnumbers/block/PBlockYellowBlock.java",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/p_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/p_block_yellow.json",
+          "src/main/resources/assets/letters_and_numbers/models/item/p_block_yellow.json"
         ]
       },
       "path": "~/Blocks/P"
@@ -1315,9 +1315,9 @@
         "files": [
           "src/main/resources/assets/letters_and_numbers/models/item/p_block.json",
           "src/main/resources/assets/letters_and_numbers/models/block/p_block.json",
-          "src/main/resources/assets/letters_and_numbers/blockstates/p_block.json",
           "src/main/java/net/mcreator/lettersandnumbers/block/PBlockBlock.java",
-          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/p_block.json"
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/p_block.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/p_block.json"
         ]
       },
       "path": "~/Blocks/P"
@@ -1436,10 +1436,10 @@
     "files": [
       "src/main/java/net/mcreator/lettersandnumbers/init/LettersAndNumbersModBlocks.java",
       "src/main/java/net/mcreator/lettersandnumbers/init/LettersAndNumbersModItems.java",
-      "src/main/resources/pack.mcmeta",
       "src/main/java/net/mcreator/lettersandnumbers/init/LettersAndNumbersModTabs.java",
-      "src/main/java/net/mcreator/lettersandnumbers/LettersAndNumbersMod.java",
-      "src/main/resources/META-INF/mods.toml"
+      "src/main/resources/pack.mcmeta",
+      "src/main/resources/META-INF/mods.toml",
+      "src/main/java/net/mcreator/lettersandnumbers/LettersAndNumbersMod.java"
     ]
   },
   "foldersRoot": {
