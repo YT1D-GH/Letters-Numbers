@@ -94,5 +94,6 @@ public class LettersAndNumbersModTabs {
 				tabData.accept(LettersAndNumbersModBlocks.Y_BLOCK.get().asItem());
 				tabData.accept(LettersAndNumbersModBlocks.Z_BLOCK_GREEN.get().asItem());
 				tabData.accept(LettersAndNumbersModBlocks.Z_BLOCK_YELLOW.get().asItem());
+				tabData.accept(LettersAndNumbersModBlocks.Z_BLOCK.get().asItem());
 			}).build());
 }

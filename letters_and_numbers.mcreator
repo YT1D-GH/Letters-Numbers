@@ -647,7 +647,7 @@
           "src/main/java/net/mcreator/lettersandnumbers/procedures/HBlockOnBlockRightclickedProcedure.java"
         ]
       },
-      "path": "~/Blocks/H"
+      "path": "~/Procedures/H"
     },
     {
       "name": "HBlock",
@@ -2124,6 +2124,370 @@
         ]
       },
       "path": "~/Blocks/Z"
+    },
+    {
+      "name": "ABlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "a_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/a_block_r.json",
+          "src/main/resources/data/letters_and_numbers/recipes/a_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "BBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "b_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/b_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/b_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/c_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/c_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "DBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/d_block_r.json",
+          "src/main/resources/data/letters_and_numbers/recipes/d_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "EBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "e_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/e_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/e_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "FBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "f_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/f_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/f_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "GBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "g_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/g_block_r.json",
+          "src/main/resources/data/letters_and_numbers/recipes/g_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "HBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "h_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/h_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/h_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "IBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "i_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/i_block_r.json",
+          "src/main/resources/data/letters_and_numbers/recipes/i_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "JBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "j_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/j_block_r.json",
+          "src/main/resources/data/letters_and_numbers/recipes/j_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "KBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/k_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/k_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "LBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/l_block_r.json",
+          "src/main/resources/data/letters_and_numbers/recipes/l_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "MBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "m_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/m_block_r.json",
+          "src/main/resources/data/letters_and_numbers/recipes/m_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "NBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "n_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/n_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/n_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "OBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "o_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/o_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/o_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "PBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "p_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/p_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/p_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "QBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "q_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/q_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/q_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/r_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/r_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "s_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/s_block_r.json",
+          "src/main/resources/data/letters_and_numbers/recipes/s_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "TBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "t_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/t_block_r.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/t_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "UBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/u_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/u_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "VBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "v_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/v_block_r.json",
+          "src/main/resources/data/letters_and_numbers/recipes/v_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "WBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "w_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/w_block_r.json",
+          "src/main/resources/data/letters_and_numbers/recipes/w_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "XBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "x_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/x_block_r.json",
+          "src/main/resources/data/letters_and_numbers/recipes/x_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "YBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "y_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/y_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/y_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "ZBlockR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "z_block_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/z_block.json",
+          "src/main/resources/data/letters_and_numbers/advancements/recipes/z_block_r.json"
+        ]
+      },
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
@@ -2131,105 +2495,165 @@
   "tag_elements": {
     "ITEMS:forge:iswordleblock": [
       "CUSTOM:ABlock",
+      "CUSTOM:ABlockGreen",
+      "CUSTOM:ABlockYellow",
+      "CUSTOM:BBlockGreen",
+      "CUSTOM:BBlockYellow",
       "CUSTOM:BBlock",
       "CUSTOM:CBlock",
+      "CUSTOM:CBlockYellow",
+      "CUSTOM:CBlockGreen",
       "CUSTOM:DBlock",
+      "CUSTOM:DBlockYellow",
+      "CUSTOM:DBlockGreen",
+      "CUSTOM:EBlockYellow",
+      "CUSTOM:EBlockGreen",
       "CUSTOM:EBlock",
+      "CUSTOM:FblockGreen",
+      "CUSTOM:FBlockYellow",
       "CUSTOM:FBlock",
+      "CUSTOM:GBlockYellow",
+      "CUSTOM:GBlockGreen",
       "CUSTOM:GBlock",
+      "CUSTOM:HBlockYellow",
+      "CUSTOM:HBlockGreen",
       "CUSTOM:HBlock",
+      "CUSTOM:IBlockYellow",
+      "CUSTOM:IBlockGreen",
       "CUSTOM:IBlock",
+      "CUSTOM:JBlockGreen",
+      "CUSTOM:JBlockYellow",
       "CUSTOM:JBlock",
+      "CUSTOM:KBlockGreen",
+      "CUSTOM:KBlockYellow",
       "CUSTOM:KBlock",
+      "CUSTOM:LBlockGreen",
+      "CUSTOM:LBlockYellow",
       "CUSTOM:LBlock",
+      "CUSTOM:MBlockGreen",
+      "CUSTOM:MBlockYellow",
       "CUSTOM:MBlock",
+      "CUSTOM:NBlockGreen",
+      "CUSTOM:NBlockYellow",
       "CUSTOM:NBlock",
+      "CUSTOM:OBlockGreen",
+      "CUSTOM:OBlockYellow",
       "CUSTOM:OBlock",
+      "CUSTOM:PBlockGreen",
+      "CUSTOM:PBlockYellow",
       "CUSTOM:PBlock",
+      "CUSTOM:QBlockGreen",
+      "CUSTOM:QBlockYellow",
       "CUSTOM:QBlock",
-      "CUSTOM:RBlock"
+      "CUSTOM:RBlockGreen",
+      "CUSTOM:RBlockYellow",
+      "CUSTOM:RBlock",
+      "CUSTOM:SBlockGreen",
+      "CUSTOM:SBlockYellow",
+      "CUSTOM:SBlock",
+      "CUSTOM:TBlockGreen",
+      "CUSTOM:TBlockYellow",
+      "CUSTOM:TBlock",
+      "CUSTOM:UBlockGreen",
+      "CUSTOM:UBlockYellow",
+      "CUSTOM:UBlock",
+      "CUSTOM:VBlockGreen",
+      "CUSTOM:VBlockYellow",
+      "CUSTOM:VBlock",
+      "CUSTOM:WBlockGreen",
+      "CUSTOM:WBlockYellow",
+      "CUSTOM:WBlock",
+      "CUSTOM:XBlockGreen",
+      "CUSTOM:XBlockYellow",
+      "CUSTOM:XBlock",
+      "CUSTOM:YBlockGreen",
+      "CUSTOM:YBlockYellow",
+      "CUSTOM:YBlock",
+      "CUSTOM:ZBlockGreen",
+      "CUSTOM:ZBlockYellow",
+      "CUSTOM:ZBlock"
     ]
   },
   "tab_element_order": {
     "CUSTOM:LettersAndNumbers": [
       "ABlock",
-      "ABlockGreen",
-      "ABlockYellow",
       "BBlock",
-      "BBlockYellow",
-      "BBlockGreen",
       "CBlock",
-      "CBlockYellow",
-      "CBlockGreen",
       "DBlock",
-      "DBlockYellow",
-      "DBlockGreen",
       "EBlock",
-      "EBlockYellow",
-      "EBlockGreen",
       "FBlock",
+      "GBlock",
+      "HBlock",
+      "IBlock",
+      "JBlock",
+      "KBlock",
+      "LBlock",
+      "MBlock",
+      "NBlock",
+      "OBlock",
+      "PBlock",
+      "QBlock",
+      "RBlock",
+      "SBlock",
+      "TBlock",
+      "UBlock",
+      "VBlock",
+      "WBlock",
+      "XBlock",
+      "YBlock",
+      "ZBlock",
+      "ABlockGreen",
+      "BBlockGreen",
+      "CBlockGreen",
+      "DBlockGreen",
+      "EBlockGreen",
       "FblockGreen",
+      "GBlockGreen",
+      "HBlockGreen",
+      "IBlockGreen",
+      "JBlockGreen",
+      "KBlockGreen",
+      "LBlockGreen",
+      "MBlockGreen",
+      "NBlockGreen",
+      "OBlockGreen",
+      "PBlockGreen",
+      "QBlockGreen",
+      "RBlockGreen",
+      "SBlockGreen",
+      "TBlockGreen",
+      "UBlockGreen",
+      "VBlockGreen",
+      "WBlockGreen",
+      "XBlockGreen",
+      "YBlockGreen",
+      "ZBlockGreen",
+      "ABlockYellow",
+      "BBlockYellow",
+      "CBlockYellow",
+      "DBlockYellow",
+      "EBlockYellow",
       "FBlockYellow",
       "GBlockYellow",
-      "GBlockGreen",
-      "GBlock",
       "HBlockYellow",
-      "HBlockGreen",
-      "HBlock",
       "IBlockYellow",
-      "IBlockGreen",
-      "IBlock",
-      "JBlockGreen",
       "JBlockYellow",
-      "JBlock",
-      "KBlockGreen",
       "KBlockYellow",
-      "KBlock",
-      "LBlockGreen",
       "LBlockYellow",
-      "LBlock",
-      "MBlockGreen",
       "MBlockYellow",
-      "MBlock",
-      "NBlockGreen",
       "NBlockYellow",
-      "NBlock",
-      "OBlockGreen",
       "OBlockYellow",
-      "OBlock",
-      "PBlockGreen",
       "PBlockYellow",
-      "PBlock",
-      "QBlockGreen",
       "QBlockYellow",
-      "QBlock",
-      "RBlockGreen",
       "RBlockYellow",
-      "RBlock",
-      "SBlockGreen",
       "SBlockYellow",
-      "SBlock",
-      "TBlockGreen",
       "TBlockYellow",
-      "TBlock",
-      "UBlockGreen",
       "UBlockYellow",
-      "UBlock",
-      "VBlockGreen",
       "VBlockYellow",
-      "VBlock",
-      "WBlockGreen",
       "WBlockYellow",
-      "WBlock",
-      "XBlockGreen",
       "XBlockYellow",
-      "XBlock",
-      "YBlockGreen",
       "YBlockYellow",
-      "YBlock",
-      "ZBlockGreen",
-      "ZBlockYellow",
-      "ZBlock"
+      "ZBlockYellow"
     ]
   },
   "language_map": {
@@ -2546,6 +2970,10 @@
             "children": []
           }
         ]
+      },
+      {
+        "name": "Recipes",
+        "children": []
       }
     ]
   },

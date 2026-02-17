@@ -36,7 +36,7 @@ public class CBlockOnBlockRightclickedProcedure {
 		} else {
 			if (world instanceof ServerLevel _level)
 				_level.getServer().getCommands().performPrefixedCommand(new CommandSourceStack(CommandSource.NULL, new Vec3(x, y, z), Vec2.ZERO, _level, 4, "", Component.literal(""), _level.getServer(), null).withSuppressedOutput(),
-						"tell @p Invalid dye in main hand, Please use lime or yellow dye");
+						"tellraw @p [\"\",{\"text\":\"Invalid Dye, Please use either \"},{\"text\":\"yellow\",\"color\":\"yellow\"},{\"text\":\" or \"},{\"text\":\"green\",\"color\":\"green\"},{\"text\":\" dye\"}]");
 		}
 	}
 
