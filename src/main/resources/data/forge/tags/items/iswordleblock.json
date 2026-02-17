@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "letters_and_numbers:c_block",
+    "letters_and_numbers:i_block",
+    "letters_and_numbers:l_block",
+    "letters_and_numbers:p_block",
+    "letters_and_numbers:b_block",
+    "letters_and_numbers:m_block",
+    "letters_and_numbers:e_block",
+    "letters_and_numbers:g_block",
+    "letters_and_numbers:o_block",
+    "letters_and_numbers:r_block",
+    "letters_and_numbers:j_block",
+    "letters_and_numbers:q_block",
+    "letters_and_numbers:a_block",
+    "letters_and_numbers:k_block",
+    "letters_and_numbers:d_block",
+    "letters_and_numbers:h_block",
+    "letters_and_numbers:n_block",
+    "letters_and_numbers:f_block"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "letters_and_numbers:blocks/x_block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "letters_and_numbers:x_block"
+        }
+      ]
+    }
+  ]
+}
