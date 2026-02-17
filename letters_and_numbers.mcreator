@@ -2076,6 +2076,54 @@
         ]
       },
       "path": "~/Blocks/Z"
+    },
+    {
+      "name": "ZBlockOnBlockRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "z_block_on_block_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/procedures/ZBlockOnBlockRightclickedProcedure.java"
+        ]
+      },
+      "path": "~/Procedures/Z"
+    },
+    {
+      "name": "ZBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "z_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/item/z_block.json",
+          "src/main/resources/assets/letters_and_numbers/blockstates/z_block.json",
+          "src/main/resources/assets/letters_and_numbers/models/block/z_block.json",
+          "src/main/resources/data/letters_and_numbers/loot_tables/blocks/z_block.json",
+          "src/main/java/net/mcreator/lettersandnumbers/block/ZBlockBlock.java"
+        ]
+      },
+      "path": "~/Blocks/Z"
     }
   ],
   "variable_elements": [],
@@ -2180,7 +2228,8 @@
       "YBlockYellow",
       "YBlock",
       "ZBlockGreen",
-      "ZBlockYellow"
+      "ZBlockYellow",
+      "ZBlock"
     ]
   },
   "language_map": {
@@ -2263,7 +2312,8 @@
       "block.letters_and_numbers.y_block_yellow": "Y Block Yellow",
       "block.letters_and_numbers.y_block": "Y Block",
       "block.letters_and_numbers.z_block_green": "Z Block Green",
-      "block.letters_and_numbers.z_block_yellow": "Z Block Yellow"
+      "block.letters_and_numbers.z_block_yellow": "Z Block Yellow",
+      "block.letters_and_numbers.z_block": "Z Block"
     }
   },
   "metadata": {
