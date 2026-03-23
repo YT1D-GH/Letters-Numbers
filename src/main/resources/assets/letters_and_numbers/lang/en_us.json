@@ -78,5 +78,7 @@
   "block.letters_and_numbers.y_block": "Y Block",
   "block.letters_and_numbers.z_block_green": "Z Block Green",
   "block.letters_and_numbers.z_block_yellow": "Z Block Yellow",
-  "block.letters_and_numbers.z_block": "Z Block"
+  "block.letters_and_numbers.z_block": "Z Block",
+  "item.letters_and_numbers.green_converter": "Green Converter",
+  "item.letters_and_numbers.yellow_converter": "Yellow Converter"
 }

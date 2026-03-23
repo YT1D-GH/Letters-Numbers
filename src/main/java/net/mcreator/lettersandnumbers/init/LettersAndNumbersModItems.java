@@ -11,6 +11,8 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.BlockItem;
 
+import net.mcreator.lettersandnumbers.item.YellowConverterItem;
+import net.mcreator.lettersandnumbers.item.GreenConverterItem;
 import net.mcreator.lettersandnumbers.LettersAndNumbersMod;
 
 public class LettersAndNumbersModItems {
@@ -94,6 +96,8 @@ public class LettersAndNumbersModItems {
 	public static final RegistryObject<Item> Z_BLOCK_GREEN;
 	public static final RegistryObject<Item> Z_BLOCK_YELLOW;
 	public static final RegistryObject<Item> Z_BLOCK;
+	public static final RegistryObject<Item> GREEN_CONVERTER;
+	public static final RegistryObject<Item> YELLOW_CONVERTER;
 	static {
 		A_BLOCK = block(LettersAndNumbersModBlocks.A_BLOCK);
 		A_BLOCK_GREEN = block(LettersAndNumbersModBlocks.A_BLOCK_GREEN);
@@ -174,6 +178,8 @@ public class LettersAndNumbersModItems {
 		Z_BLOCK_GREEN = block(LettersAndNumbersModBlocks.Z_BLOCK_GREEN);
 		Z_BLOCK_YELLOW = block(LettersAndNumbersModBlocks.Z_BLOCK_YELLOW);
 		Z_BLOCK = block(LettersAndNumbersModBlocks.Z_BLOCK);
+		GREEN_CONVERTER = REGISTRY.register("green_converter", GreenConverterItem::new);
+		YELLOW_CONVERTER = REGISTRY.register("yellow_converter", YellowConverterItem::new);
 	}
 
 	// Start of user code block custom items

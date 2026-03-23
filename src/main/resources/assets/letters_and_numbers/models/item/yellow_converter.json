@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "letters_and_numbers:item/item_yellowconverter"
+  }
+}

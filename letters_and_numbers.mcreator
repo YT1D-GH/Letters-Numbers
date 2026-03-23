@@ -86,37 +86,6 @@
       "path": "~/Blocks/B"
     },
     {
-      "name": "BBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "b_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/BBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/B"
-    },
-    {
       "name": "BBlock",
       "type": "block",
       "compiles": true,
@@ -132,37 +101,6 @@
         ]
       },
       "path": "~/Blocks/B"
-    },
-    {
-      "name": "ABlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "a_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/ABlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/A"
     },
     {
       "name": "CBlock",
@@ -214,37 +152,6 @@
         ]
       },
       "path": "~/Blocks/C"
-    },
-    {
-      "name": "CBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "c_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/CBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/C"
     },
     {
       "name": "Lettersandnumberscmico",
@@ -325,37 +232,6 @@
       "path": "~/Blocks/D"
     },
     {
-      "name": "DBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "d_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/DBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/D"
-    },
-    {
       "name": "EBlockYellow",
       "type": "block",
       "compiles": true,
@@ -388,20 +264,6 @@
         ]
       },
       "path": "~/Blocks/E"
-    },
-    {
-      "name": "EBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "e_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/EBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/E"
     },
     {
       "name": "EBlock",
@@ -453,37 +315,6 @@
         ]
       },
       "path": "~/Blocks/F"
-    },
-    {
-      "name": "FBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "f_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/FBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/F"
     },
     {
       "name": "FBlock",
@@ -571,37 +402,6 @@
       "path": "~/Blocks/H"
     },
     {
-      "name": "GBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "g_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/GBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/G"
-    },
-    {
       "name": "HBlockGreen",
       "type": "block",
       "compiles": true,
@@ -617,37 +417,6 @@
         ]
       },
       "path": "~/Blocks/H"
-    },
-    {
-      "name": "HBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "h_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/HBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/H"
     },
     {
       "name": "HBlock",
@@ -701,37 +470,6 @@
       "path": "~/Blocks/I"
     },
     {
-      "name": "IBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "i_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/IBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/I"
-    },
-    {
       "name": "IBlock",
       "type": "block",
       "compiles": true,
@@ -781,37 +519,6 @@
         ]
       },
       "path": "~/Blocks/J"
-    },
-    {
-      "name": "JBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "j_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/JBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/J"
     },
     {
       "name": "JBlock",
@@ -865,37 +572,6 @@
       "path": "~/Blocks/K"
     },
     {
-      "name": "KBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "k_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/KBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/K"
-    },
-    {
       "name": "KBlock",
       "type": "block",
       "compiles": true,
@@ -945,37 +621,6 @@
         ]
       },
       "path": "~/Blocks/L"
-    },
-    {
-      "name": "LBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "l_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/LBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/L"
     },
     {
       "name": "LBlock",
@@ -1029,37 +674,6 @@
       "path": "~/Blocks/M"
     },
     {
-      "name": "MBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "m_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/MBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/M"
-    },
-    {
       "name": "MBlock",
       "type": "block",
       "compiles": true,
@@ -1109,37 +723,6 @@
         ]
       },
       "path": "~/Blocks/N"
-    },
-    {
-      "name": "NBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "n_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/NBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/N"
     },
     {
       "name": "NBlock",
@@ -1193,37 +776,6 @@
       "path": "~/Blocks/O"
     },
     {
-      "name": "OBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "o_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/OBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/O"
-    },
-    {
       "name": "OBlock",
       "type": "block",
       "compiles": true,
@@ -1273,37 +825,6 @@
         ]
       },
       "path": "~/Blocks/P"
-    },
-    {
-      "name": "PBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "p_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/PBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/P"
     },
     {
       "name": "PBlock",
@@ -1357,37 +878,6 @@
       "path": "~/Blocks/Q"
     },
     {
-      "name": "QBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "q_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/QBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/Q"
-    },
-    {
       "name": "QBlock",
       "type": "block",
       "compiles": true,
@@ -1437,20 +927,6 @@
         ]
       },
       "path": "~/Blocks/R"
-    },
-    {
-      "name": "RBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/RBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/R"
     },
     {
       "name": "RBlock",
@@ -1504,37 +980,6 @@
       "path": "~/Blocks/S"
     },
     {
-      "name": "SBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "s_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/SBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/S"
-    },
-    {
       "name": "SBlock",
       "type": "block",
       "compiles": true,
@@ -1584,37 +1029,6 @@
         ]
       },
       "path": "~/Blocks/T"
-    },
-    {
-      "name": "TBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "t_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/TBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/T"
     },
     {
       "name": "TBlock",
@@ -1668,37 +1082,6 @@
       "path": "~/Blocks/U"
     },
     {
-      "name": "UBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "u_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/UBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/U"
-    },
-    {
       "name": "UBlock",
       "type": "block",
       "compiles": true,
@@ -1748,37 +1131,6 @@
         ]
       },
       "path": "~/Blocks/V"
-    },
-    {
-      "name": "VBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "v_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/VBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/V"
     },
     {
       "name": "VBlock",
@@ -1832,37 +1184,6 @@
       "path": "~/Blocks/W"
     },
     {
-      "name": "WBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "w_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/WBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/W"
-    },
-    {
       "name": "WBlock",
       "type": "block",
       "compiles": true,
@@ -1912,37 +1233,6 @@
         ]
       },
       "path": "~/Blocks/X"
-    },
-    {
-      "name": "XBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "x_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/XBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/X"
     },
     {
       "name": "XBlock",
@@ -1996,37 +1286,6 @@
       "path": "~/Blocks/Y"
     },
     {
-      "name": "YBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "y_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/YBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/Y"
-    },
-    {
       "name": "YBlock",
       "type": "block",
       "compiles": true,
@@ -2076,37 +1335,6 @@
         ]
       },
       "path": "~/Blocks/Z"
-    },
-    {
-      "name": "ZBlockOnBlockRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "z_block_on_block_rightclicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ],
-        "files": [
-          "src/main/java/net/mcreator/lettersandnumbers/procedures/ZBlockOnBlockRightclickedProcedure.java"
-        ]
-      },
-      "path": "~/Procedures/Z"
     },
     {
       "name": "ZBlock",
@@ -2488,6 +1716,96 @@
         ]
       },
       "path": "~/Recipes"
+    },
+    {
+      "name": "GreenConverterRightclickedOnBlock",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_converter_rightclicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/procedures/GreenConverterRightclickedOnBlockProcedure.java"
+        ]
+      },
+      "path": "~/items/Green Converter"
+    },
+    {
+      "name": "GreenConverter",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_converter",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/item/green_converter.json",
+          "src/main/java/net/mcreator/lettersandnumbers/item/GreenConverterItem.java"
+        ]
+      },
+      "path": "~/items/Green Converter"
+    },
+    {
+      "name": "YellowConverterRightclickedOnBlock",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_converter_rightclicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/lettersandnumbers/procedures/YellowConverterRightclickedOnBlockProcedure.java"
+        ]
+      },
+      "path": "~/items/Yellow Converter"
+    },
+    {
+      "name": "YellowConverter",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_converter",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/letters_and_numbers/models/item/yellow_converter.json",
+          "src/main/java/net/mcreator/lettersandnumbers/item/YellowConverterItem.java"
+        ]
+      },
+      "path": "~/items/Yellow Converter"
     }
   ],
   "variable_elements": [],
@@ -2737,7 +2055,9 @@
       "block.letters_and_numbers.y_block": "Y Block",
       "block.letters_and_numbers.z_block_green": "Z Block Green",
       "block.letters_and_numbers.z_block_yellow": "Z Block Yellow",
-      "block.letters_and_numbers.z_block": "Z Block"
+      "block.letters_and_numbers.z_block": "Z Block",
+      "item.letters_and_numbers.green_converter": "Green Converter",
+      "item.letters_and_numbers.yellow_converter": "Yellow Converter"
     }
   },
   "metadata": {
@@ -2863,117 +2183,21 @@
         ]
       },
       {
-        "name": "Procedures",
+        "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "items",
         "children": [
           {
-            "name": "A",
+            "name": "Green Converter",
             "children": []
           },
           {
-            "name": "B",
-            "children": []
-          },
-          {
-            "name": "C",
-            "children": []
-          },
-          {
-            "name": "D",
-            "children": []
-          },
-          {
-            "name": "E",
-            "children": []
-          },
-          {
-            "name": "F",
-            "children": []
-          },
-          {
-            "name": "G",
-            "children": []
-          },
-          {
-            "name": "H",
-            "children": []
-          },
-          {
-            "name": "I",
-            "children": []
-          },
-          {
-            "name": "J",
-            "children": []
-          },
-          {
-            "name": "K",
-            "children": []
-          },
-          {
-            "name": "L",
-            "children": []
-          },
-          {
-            "name": "M",
-            "children": []
-          },
-          {
-            "name": "N",
-            "children": []
-          },
-          {
-            "name": "O",
-            "children": []
-          },
-          {
-            "name": "P",
-            "children": []
-          },
-          {
-            "name": "Q",
-            "children": []
-          },
-          {
-            "name": "R",
-            "children": []
-          },
-          {
-            "name": "S",
-            "children": []
-          },
-          {
-            "name": "T",
-            "children": []
-          },
-          {
-            "name": "U",
-            "children": []
-          },
-          {
-            "name": "V",
-            "children": []
-          },
-          {
-            "name": "W",
-            "children": []
-          },
-          {
-            "name": "X",
-            "children": []
-          },
-          {
-            "name": "Y",
-            "children": []
-          },
-          {
-            "name": "Z",
+            "name": "Yellow Converter",
             "children": []
           }
         ]
-      },
-      {
-        "name": "Recipes",
-        "children": []
       }
     ]
   },
