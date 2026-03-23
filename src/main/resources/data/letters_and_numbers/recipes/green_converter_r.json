@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:craftsgreenconverter"
+    }
+  },
+  "result": {
+    "item": "letters_and_numbers:green_converter",
+    "count": 1
+  }
+}

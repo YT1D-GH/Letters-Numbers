@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:yellow_concrete"
+    }
+  },
+  "result": {
+    "item": "letters_and_numbers:yellow_converter",
+    "count": 1
+  }
+}

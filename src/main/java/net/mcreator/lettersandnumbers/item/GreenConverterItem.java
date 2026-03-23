@@ -8,7 +8,7 @@ import net.mcreator.lettersandnumbers.procedures.GreenConverterRightclickedOnBlo
 
 public class GreenConverterItem extends Item {
 	public GreenConverterItem() {
-		super(new Item.Properties());
+		super(new Item.Properties().stacksTo(1));
 	}
 
 	@Override

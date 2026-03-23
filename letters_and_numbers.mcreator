@@ -1806,6 +1806,32 @@
         ]
       },
       "path": "~/items/Yellow Converter"
+    },
+    {
+      "name": "GreenConverterR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_converter_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/green_converter_r.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "YellowConverterR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_converter_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/letters_and_numbers/recipes/yellow_converter_r.json"
+        ]
+      },
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
@@ -1890,6 +1916,13 @@
       "CUSTOM:ZBlockGreen",
       "CUSTOM:ZBlockYellow",
       "CUSTOM:ZBlock"
+    ],
+    "ITEMS:forge:craftsgreenconverter": [
+      "Blocks.CONCRETE#5",
+      "Blocks.CONCRETE#13"
+    ],
+    "ITEMS:forge:craftsyellowconverter": [
+      "Blocks.CONCRETE#4"
     ]
   },
   "tab_element_order": {

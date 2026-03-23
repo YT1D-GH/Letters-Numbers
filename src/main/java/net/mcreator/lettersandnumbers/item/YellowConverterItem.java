@@ -8,7 +8,7 @@ import net.mcreator.lettersandnumbers.procedures.YellowConverterRightclickedOnBl
 
 public class YellowConverterItem extends Item {
 	public YellowConverterItem() {
-		super(new Item.Properties());
+		super(new Item.Properties().stacksTo(1));
 	}
 
 	@Override
